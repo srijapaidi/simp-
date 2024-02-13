@@ -1,0 +1,30 @@
+.nav {
+    background-color: #f47272;
+    overflow: hidden;
+  }
+  .nav a {
+    float: left;
+    color: #121111;
+    text-align: center;
+    padding: 14px 46px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .I2{
+    height: 20px;
+    width: 20px;
+  }
+  .column {
+    float: left;
+    width: 47%;
+    padding-top: 5px;
+  }
+  .row-top{
+    float: top;
+
+  }
+  .mid{
+    text-align: center;
+    padding-top: 70px;
+  }
